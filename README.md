@@ -11,9 +11,9 @@
 </div>
 
 ## <div align=center> </div>
-<div align=center> 𝑵𝒂𝒎𝒆：☕ まふお。☕</div>
-<div align=center> 𝑭𝑹𝑶𝑴：🇯🇵　　　　　　.</div>
-<div align=center> 𝑩𝒊𝒓𝒕𝒉：'05/01/24　　　.</div>
+<div align=center> ￤𝑵𝒂𝒎𝒆：☕ まふお。☕￤</div>
+<div align=center> ￤𝑭𝑹𝑶𝑴：🇯🇵　　　　　　￤</div>
+<div align=center> ￤𝑩𝒊𝒓𝒕𝒉：'05/01/24　　　￤</div>
 <div align=center>
   <picture>
     <source
