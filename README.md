@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,c,cs,spp,cmake,py,nodejs,js,ts,html,discord,bots,discordjs,discordpy,github,raspberrypi,vim,unity,unreal,rider,gmail,ai,notion)](https://skillicons.dev)
 
 <!--
 **MafuoLv0/MafuoLv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
