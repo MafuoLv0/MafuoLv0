@@ -1,14 +1,36 @@
 <div align=center>
-## > Name：　まふお。 <
+  <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?bg=FFF5E3&l0=D1BFA1&l1=403117&l2=473619&l3=31250F&l4=3B1E1A&text=%E3%81%B7%E3%82%8D%E3%81%90%E3%82%89%E3%81%BE%E3%83%BC%E3%80%82%20%E3%81%B7%E3%82%89%E3%82%93%E3%81%AA%E3%83%BC%E3%80%82%20%20%20&frame=3B1E1A&speed=200&comment=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E5%85%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%EF%BC%81%E3%82%81%E3%81%96%E3%81%9B%E6%9C%80%E5%BC%B7%EF%BC%81"></a>
 </div>
 
+## <div align=center> 🌙+。°・‿︵‿୨　　**𝑷𝒓𝒐𝒇𝒊𝒍𝒆**　　୧‿︵‿・°+🌙 </div>
+
+<div align=center>\🐾/</div>
+<div align=center>\/</div>
 <div align=center>
 <img width="512" height="512" alt="jiji" src="https://github.com/user-attachments/assets/62811c23-6eff-46a4-b797-4cb03793e8d6" />
 </div>
 
-[![typograssy](https://typograssy.deno.dev/api?bg=000000&l0=000033&l1=000066&l2=000099&l3=0000CC&l4=0000FF&text=まふお。%20プログラマー？%20%20%20&frame=00AA00&speed=200&comment=へいらっしゃ！)](https://github.com/kawarimidoll/typograssy)
+## <div align=center> </div>
+<div align=center> 𝑵𝒂𝒎𝒆：☕ まふお。☕</div>
+<div align=center> 𝑭𝑹𝑶𝑴：🇯🇵　　　　　　.</div>
+<div align=center> 𝑩𝒊𝒓𝒕𝒉：'05/01/24　　　.</div>
+<div align=center>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=mafuolv0&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=mafauolv0&show_icons=true" />
+  </picture>
+</div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mafuolv0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+## <div align=center> </div>
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=windows,c,cs,cpp,cmake,py,nodejs,js,ts,html,discord,bots,discordjs,github,raspberrypi,vim,unity,unreal,rider,gmail,ai,notion)](https://skillicons.dev)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
